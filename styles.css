@@ -1,0 +1,137 @@
+.homepage{
+    background-image: linear-gradient(to right, #ffeaf1, rgba(255,0,0,0));
+    background-size:cover;
+}
+
+.recordingpage{
+    background-image: linear-gradient(to right, #0000008f,#6983909c);
+    height: 100vh;
+    background-size:cover;
+}
+
+.zumbapage{
+    background-image: linear-gradient(to right, #5c000e9c, #ffeaf1);
+    background-size:cover;
+}
+
+.bollywoodpage{
+    background-image: linear-gradient(to left,  #cdb3b7,#ff0026a8);
+    background-size:cover;
+}
+
+.kidspage{
+    background-image: linear-gradient(to left, #fe95dfa8,#78dddfa8);
+    background-size:cover;
+}
+
+.achievementspage{
+    background-image: linear-gradient(to left, #fff693a8,#e8d0ff);
+    background-size:cover;
+}
+
+
+.main-head{
+    font-family: 'Bungee Shade';
+    color:#ec008c;
+    font-size:50px;
+}
+
+.sub-head{
+    font-family: 'Bungee Hairline';
+    color:#ec008c;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.headings{
+    font-family: 'Bungee Hairline'; 
+    color:#ec008c;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.sub-headings{
+    color:#5c000e9c;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.span-head-zumba{
+    color:#5c000e9c;
+}
+
+
+
+.heading{
+    font-family: 'Bungee Shade';
+    color:#0e1142;
+    font-size:50px;
+}
+
+.logo{
+    height:20vh;
+}
+
+
+
+.para{
+    font-weight: 700;
+    font-size: 2.5vh;
+}
+
+.image1{
+    
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.image2{
+    border-radius: 15px;
+}
+
+.nnn{
+    color:black;
+}
+
+.inside-nav{
+    font-size: 20px;
+}
+
+.c-img{
+    border-radius: 50px;
+    height: 400px;
+    width: 400px;
+}
+
+.left-arrow{
+    background-color: #0e1142;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    width: 5px;
+}
+
+.right-arrow{
+    background-color: #0e1142;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.month{
+    box-shadow: 1px 1px 2px black, 0 0 25px #ffffff, 0 0 5px #ffffff;
+    font-family: 'Bungee Shade';
+    color: #0e1142;
+    font-size: 30px;
+    border-radius: 15px;
+    background-color: #ffffff9c;
+}
+
+
+.ach-head{
+    font-weight: 300;
+    text-align: center;
+    padding: 5px;
+}
+
+
+
+
